@@ -3,7 +3,7 @@ name: CodeQL Security Scan
 on:
   pull_request:
     branches:
-      - develop
+      - dev
       - main
 
 jobs:
