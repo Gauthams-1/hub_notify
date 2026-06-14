@@ -3,7 +3,7 @@ name: Notify CI
 on:
   pull_request:
     branches:
-      - dev
+      - cg2
       - main
 
 jobs:
